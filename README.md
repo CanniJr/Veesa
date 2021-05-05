@@ -1,3 +1,11 @@
+## Travel Visa Checker
+ This app is created using Next.js and Tailwind CSS.
+
+ I just requested an API from visadb.io to use in this app, and hoping to hear from them to soon. 
+ Any suggestions on what API to use for travel visas and places to visit with citizenship of our choice, please contact me at cannigialaluw@gmail.com! :)
+
+----------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
